@@ -4,7 +4,8 @@ title: Readings
 
 ---
 
-- [Fuck Content](https://2x4.org/ideas/2/fuck-content/)
-- [Crystal Goblet](http://readings.design/PDF/The%20Crystal%20Goblet.pdf)
-- [A Typographic Discourse for the Distaff Side of Printing, a book by ladies](http://s3.amazonaws.com/arena-attachments/2558912/d4365f7c2d1c55c3684c5ff73eda4fa3.pdf?1534349390)
-- The Elements of Typographic Style (pages 17 - 24)
+- [All Technology is Assistive](https://medium.com/backchannel/all-technology-is-assistive-ac9f7183c8cd)
+- [Benevolent Deception in Human Computer Interaction](http://www.cond.org/deception.pdf)
+- [Over the Bridge](http://digital-strategies.ma-ad.ch/article/overthebridge/)
+- [A Vernacular Web](http://art.teleportacia.org/observation/vernacular/)
+- [The Garden of Forking Paths](http://s18coreinteraction.teachinginter.net/readings/garden-forking-paths-borges.pdf)
