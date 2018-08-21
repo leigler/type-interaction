@@ -1,0 +1,23 @@
+<div class="days">
+{% include sections.html %}
+{% for collection in site.collections %}
+  {% assign name = collection.label %}
+  {% if name != "posts" %} 
+	  <div class="day" id="{{name}}">
+			{% for day in site[name] %}
+				{% if day.daytitle.size > 1 %}
+					<div class="full-column">
+						<h2>{{ day.daytitle }}</h2>
+					</div>
+				{% endif %}
+				<div class="column">
+					{% if day.content.size > 1 %}
+						<h3 class="mobile-title">{{ day.title }}</h3>
+					{% endif %}
+					{{ day.content | markdownify }}
+				</div>
+		  {% endfor %}
+		</div>
+	{% endif %}	
+{% endfor %}
+</div>
