@@ -1,0 +1,12 @@
+<footer>
+{% for slide in site.presentation_1 %}
+  {% if forloop.index == 1 %}
+    {% assign class = "current" %}
+  {% else %}
+    {% assign class = "" %}
+  {% endif %}
+<h2 class="slide_navigation {{class}}" data-slide="{{forloop.index}}">
+  {{forloop.index}}
+</h2>
+{% endfor %}
+</footer>

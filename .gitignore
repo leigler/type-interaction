@@ -1,2 +1,4 @@
 # ignore these files
 _site/*
+assets/.DS_Store
+assets/images/.DS_Store

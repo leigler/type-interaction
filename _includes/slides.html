@@ -1,0 +1,17 @@
+{% for slide in site.presentation_1 %}
+  {% if forloop.index == 1 %}
+    {% assign class = "current" %}
+  {% else %}
+    {% assign class = "" %}
+  {% endif %}
+<section class="slide_container {{class}}" data-slide="{{forloop.index}}">
+  <div class="slide">
+    {% for image in slide.images 
+      %}<img src="{{image[0]}}" class="{{image[1]}}"
+    >{% endfor %}
+  </div
+  ><div class="notes">
+    {{ slide.content | markdownify }}
+  </div>
+</section>
+{% endfor %}

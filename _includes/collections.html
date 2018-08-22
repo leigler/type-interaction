@@ -2,7 +2,7 @@
 {% include sections.html %}
 {% for collection in site.collections %}
   {% assign name = collection.label %}
-  {% if name != "posts" %} 
+  {% if name != "posts" || name != "presentation_1" %} 
 	  <div class="day" id="{{name}}">
 			{% for day in site[name] %}
 				{% if day.daytitle.size > 1 %}
