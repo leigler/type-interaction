@@ -4,9 +4,11 @@ title: Assignments
 
 ---
 
-*Part B*
+### Assignment 1
 
-Based on today’s critique, select one of your hierarchical explorations. Consider today’s discussion and in-class explorations on formats and responsiveness. Update and execute your chosen hierarchical system in the listed formats: 
-- 8.5x11 (unlimited folds)
-- 8.5x11 folded once, vertical
-- 8.5x11 folded once, horizontal
+Consider our in-class discussions, critiques, and experiments exploring typographic hierarchy...
+How might we guide a reader’s eye through pattern and repetition? How might we ease a [user, consumer, audience, reader]’s navigation of interfaces, charts, and texts through spacing and type styles? How might we consciously add opinion and perspective to text through typographic hierarchy?
+
+*Part A*
+
+Select and download your content.zip from the class site (). To continue exploring the effects of hierarchy on legibility, navigability, and perspective, introduce hierarchy to this content in three separate ways. Each method will be presented in tabloid format, and should give weight to your selected content differently. 

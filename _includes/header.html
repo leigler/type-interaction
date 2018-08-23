@@ -7,8 +7,8 @@
 	</div>
 	<div class="column disappear"></div>
 	<div class="column">
-		{% if site.collections.size > 2 %}
-
+		{% if site.collections.size > 3 %}
+		{% comment %} 3 bc posts, day_0, and presentations all count as collections {% endcomment %}
 			<h3>Table of Contents</h3>
 			<ul>
 				{% for collection in site.collections %}
