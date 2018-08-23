@@ -14,6 +14,7 @@
     padding-bottom: 1rem;
     border-bottom: 2px solid #fff;
     padding-left: 1rem;
+    background-color: #000;
   }
   footer{
     position: fixed;
@@ -26,27 +27,26 @@
     h2{
       display: inline;
       margin: 0 0.5rem;
+      padding-left: 0.3rem;
+      text-align: center;
       &.current,
       &:hover{
         position: relative;
         cursor: pointer;
-        &:after{
-          content:'';
-          position: absolute;
-          top: 0.2rem;
-          left: -0.45rem;
-          width: 1.5rem;
-          height: 1.5rem;
-          border-radius: 50%;
-          -webkit-border-radius: 50%;
-          border: 2px solid #fff;
-        }
+        background-color: #FFF8A0;
+        color: #0134CA;
+        /*border-radius: 50%;
+        -webkit-border-radius: 50%;*/
+      }
+      &:hover{
+        background-color: lightgray;
       }
     }
   }
   .slide_container{
     width: 100%;
-    margin-top: 7rem;
+    margin-top: 6.5rem;
+    margin-bottom: 4rem;
     background-color: none;
     display: none;
     &.current{
@@ -61,6 +61,7 @@
     overflow: hidden;
     img{
       display: inline-block;
+      vertical-align: top;
       width: calc(100% - 2rem);
       margin-left: 1rem;
       margin-right: 1rem;
@@ -68,12 +69,59 @@
       &.quarter{
         width: calc(33.3% - 2rem);
       }
+      &.half{
+        width: calc(66.6% - 2rem);
+      }
+    }
+  }
+  ul{
+    hyphens: auto;
+    ul{
+      margin-left: 2rem;
     }
   }
 
   .notes{
-    width: 25%;
+    position: fixed;
+    right: 1rem;
+    margin-top: 1rem;
+    width: calc(25% - 3rem);
     display: inline-block;
     vertical-align: top;
   }
+}
+
+@media (max-width: 768px){
+#presentation{
+  .slide{
+    width: 100%;
+    img{
+      width: calc(100% - 2rem);
+      &.quarter{
+        width: calc(100% - 2rem);
+      }
+      &.half{
+        width: calc(100% - 2rem);
+      }
+    }
+  }
+  .notes{
+    position: static;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    width: calc(100% - 2rem);
+    display: inline-block;
+    vertical-align: top;
+  }
+  footer{
+    h2{
+      &:hover{
+        position: relative;
+        cursor: pointer;
+        background-color: auto;
+        color: auto;
+      }
+    }
+  }
+}
 }
