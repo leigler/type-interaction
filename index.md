@@ -5,7 +5,7 @@ year: "Fall 2018"
 location: "55 W13th, Rm. I 205<br>(Hirshon Suite)"
 contact: "eigll343@newschool.edu<br>shinr377@newschool.edu"
 software: ["[Sublime Text](https://www.sublimetext.com/3)", "[Github Desktop](https://desktop.github.com/)"]
-resources: ["[Class&rsquo; are.na](https://www.are.na/lukas-eigler-harding/typography-interaction-1-skills-intensive)"]
+resources: ["[Class Syllabus](assets/docs/PMCD_5000_EIGLER-HARDING_SHINDE_F18.pdf)", "[Class&rsquo; are.na](https://www.are.na/lukas-eigler-harding/typography-interaction-1-skills-intensive)"]
 
 ---
 
