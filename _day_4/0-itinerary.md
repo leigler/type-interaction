@@ -5,12 +5,12 @@ daytitle: Day 4
 
 ---
 
-- Prelude
-- HTML & CSS q&a
-- Assignment 1c working session
-- Assignment 1a-c overview
-- Lunch
-- Assignment 2, Introduction
-- Assignment 2, Research Period + Working Session
-- What is Javascript? (Quick Demo)
-- Conclusion
+
+- Discussion on Readings
+- HTML + CSS Q&A
+- Introduction of Assignment 2: Active Reader
+- Assignment 2: Research period
+- Assignment 2: Work session
+- Critique in small groups, use time to ask technical questions
+- Optional Introduction to Javascript/JQuery
+- Class Conclusion: continue working on assignment 2, prepare javascript questions for next day

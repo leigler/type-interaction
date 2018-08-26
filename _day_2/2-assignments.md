@@ -11,4 +11,6 @@ How might we guide a reader’s eye through pattern and repetition? How might we
 
 *Part A*
 
-Select and download your content.zip from the class site (). To continue exploring the effects of hierarchy on legibility, navigability, and perspective, introduce hierarchy to this content in three separate ways. Each method will be presented in tabloid format, and should give weight to your selected content differently. 
+Select and download your [content.zip](assets/content.zip) from the class site. To continue exploring the effects of hierarchy on legibility, navigability, and perspective, introduce hierarchy to this content in three separate ways. Each method will be presented in custom artboard Desktop (1440 x 900), and should give weight to your selected content differently. 
+
+You should generate and use Sketch Symbols for your designs. Additionally, utilize at least one instance of hotspots and fixed elements for each design. Be prepared to show your designs in Sketch’s preview setting.

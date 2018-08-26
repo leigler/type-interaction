@@ -5,14 +5,15 @@ daytitle: Day 1
 
 ---
 
-- Introductions and Greetings, week overview
-- Reading groups, prepare summary
-- Reading Presentations + Discussions
-- [Sketch](https://www.sketchapp.com/get/) Demo 
-- Exercise 1: Compositions
+- Introductions
+- Small reading-based group discussions + presentation prep
+- Full class presentations
+- [Sketch](http://sketchapp.com/) Introduction
+- Exercise 1
 - Lunch
-- Presentation: Typography, vocabulary, and history
-- What is critique? Discussion
-- Exercise 1, continued
-- Exercise 2
-- Conclusion, Assignment 1a Introduction
+- [Typography Vocabulary and History Lecture](presentation1.html)
+- What is critique conversation
+- Exercise 1 continuation
+- Exercise 2 introduction + work session
+- Class Conclusion: Finish Exercise 2 for tomorrow
+- Assigned Readings

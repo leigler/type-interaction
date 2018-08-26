@@ -5,9 +5,8 @@ daytitle: Day 3
 
 ---
 
-- shortened Prelude
-- Assignment 1b small group critiques
-- HTML + CSS Demos + Exercises
-- Lunch
-- Assignment 1c, Introduction, work session
-- Conclusion, Assignment 1c
+- Discussion on Readings
+- Review of Assignment 1a
+- HTML CSS intro + exercises
+- Introduction + in-class work session: Assignment 1b
+- Class Conclusion: finish Assignment 1b for tomorrow, assign students to think about references on digital design, readings
