@@ -5,7 +5,7 @@ year: "Fall 2018"
 location: "55 W13th, Rm. I 205<br>(Hirshon Suite)"
 contact: "eigll343@newschool.edu<br>shinr377@newschool.edu"
 software: ["[Sublime Text](https://www.sublimetext.com/3)", "[Sketch App](http://sketchapp.com/)"]
-resources: ["[Class Syllabus](assets/docs/PMCD_5000_EIGLER-HARDING_SHINDE_F18.pdf)", "[Class&rsquo; are.na](https://www.are.na/lukas-eigler-harding/typography-interaction-1-skills-intensive)"]
+resources: ["[Class Syllabus](assets/docs/PMCD_5000_EIGLER-HARDING_SHINDE_F18.pdf)", "[Class&rsquo; are.na](https://www.are.na/lukas-eigler-harding/typography-interaction-1-skills-intensive)", "<em>Programming</em>", "[Stack Overflow](https://stackoverflow.com/)", "[w3 schools](https://www.w3schools.com/)", "[Learn CSS](http://learnlayout.com/)", "[Code Academy - Javascript](https://www.codecademy.com/learn/learn-javascript)", "[Code Academy - JQuery](https://www.codecademy.com/learn/learn-jquery)", "<em>Fonts & Open Source</em>", "[Google Fonts](https://fonts.google.com/)", "[Use & Modify](http://usemodify.com/)", "[Velvetyne](http://www.velvetyne.fr/)", "[Open Foundry](http://open-foundry.com/hot30)"]
 
 ---
 
