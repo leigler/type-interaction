@@ -13,3 +13,7 @@ Once you’re back in studio, spend some time studying your photographs. What ty
 Now experiment. What happens when you swap a typeface? What happens when everything becomes monochrome? What kind of mood shift is produced (ex: does Nike suddenly feel like a Halal stand? Does Starbucks feel like a bank?)?
 
 After some experimenting, decide upon a “rebrand” and develop an updated style-guide of symbols and type styles. Prepare your before/after compositions in Sketch using the initial and rebranded symbol set.
+
+Please upload your completed sketch documents and assets to the [google drive folder](https://drive.google.com/drive/folders/1ZQ0fJ3U7UB_Pc33-t2hlZx7exY2pGSSh?usp=sharing) under 'Exercise 3'
+
+Create a folder with your name and inside place the document and any necessary assets. Please name your files as 'firstname_lastname_3'

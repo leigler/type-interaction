@@ -15,3 +15,7 @@ Using your new symbols and text styles, create the “same” composition at the
 - 1440 x 900 (Desktop)
 
 You will be expected to explain how your composition has reacted to the different dimensions.
+
+Please upload your completed sketch documents and assets to the [google drive folder](https://drive.google.com/drive/folders/1ZQ0fJ3U7UB_Pc33-t2hlZx7exY2pGSSh?usp=sharing) under 'Exercise 2'
+
+Create a folder with your name and inside place the document and any necessary assets. Please name your files as 'firstname_lastname_2'

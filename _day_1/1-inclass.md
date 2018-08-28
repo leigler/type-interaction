@@ -18,3 +18,7 @@ For these compositions please use a minimum of two typefaces and be ready to art
 
 Create 10 compositions at 375 x 667 (iPhone 6 dimensions). 
 
+Please upload your completed sketch documents and assets to the [google drive folder](https://drive.google.com/drive/folders/1ZQ0fJ3U7UB_Pc33-t2hlZx7exY2pGSSh?usp=sharing) under 'Exercise 1'
+
+Create a folder with your name and inside place the document and any necessary assets. Please name your files as 'firstname_lastname_1'
+
