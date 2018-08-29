@@ -5,9 +5,12 @@ daytitle: Day 4
 
 ---
 
-
-- Discussion on Readings
 - HTML + CSS Q&A
+- 30 minute work update session for Assignment 1b
+- Walk around 
+- Readings, in class
+- Discussion on Readings
+- HTML/CSS Demo: box model and media queries
 - Introduction of Assignment 2: Active Reader
 - Assignment 2: Research period
 - Assignment 2: Work session
