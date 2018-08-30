@@ -6,9 +6,9 @@ daytitle: Day 4
 ---
 
 - HTML + CSS Q&A
-- 30 minute work update session for Assignment 1b
+- 60(ish) minute work update session for Assignment 1b
 - Walk around 
-- Readings, in class
+- Lunch/Readings
 - Discussion on Readings
 - HTML/CSS Demo: box model and media queries
 - Introduction of Assignment 2: Active Reader
