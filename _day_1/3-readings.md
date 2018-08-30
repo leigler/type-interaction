@@ -5,7 +5,7 @@ title: Readings
 ---
 
 ### Group 1
-- [Glass, Irony, and God](http://s3.amazonaws.com/arena-attachments/2558953/d7e1f94c0073ce187c166e8847bef503.pdf?1534349638)
+- [Glass, Irony, and God](assets/docs/the_gender_of_sound.pdf)
 - [A Too-Perfect Picture](https://www.nytimes.com/2016/04/03/magazine/a-too-perfect-picture.html?rref=collection%2Fbyline%2Fteju-cole&action=click&contentCollection=undefined&region=stream&module=stream_unit&version=latest&contentPlacement=5&pgtype=collection)
 - [Discussion Notes](https://docs.google.com/document/d/1RbO90JR73HnLFreWLsC1pCdGdKIsuru-9t62XMBDFz4/edit?usp=sharing)
 
