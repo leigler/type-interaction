@@ -79,6 +79,9 @@ html, body{
 
 	ul{
 		list-style: none;
+		p{
+			display: inline;
+		}
 	}
 
 	li:before{
