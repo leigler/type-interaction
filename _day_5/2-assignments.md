@@ -14,3 +14,4 @@ For tomorrow, please have your file structure prepared as follows:
 
 - [File Names](https://docs.google.com/document/d/1hE_ABfU3xhDnPY29B1fxySxiA5ChX02GK6PXMgNG858/edit)
 - [Starter Files](https://github.com/rahulshinde/2_starter_files)
+- [Image Optim](https://imageoptim.com/mac)
