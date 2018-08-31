@@ -10,4 +10,4 @@ For tomorrow, please have your file structure prepared as follows:
 - your-reading-title.html
 - css/your-reading-title.css
 - pdfs/your-reading-title.pdf
-- images/your-reading-title_1.jpg
+- images/your-reading-title_01.jpg
