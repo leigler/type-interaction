@@ -4,4 +4,4 @@ title: Readings
 
 ---
 
-- [Active Reader](http://typeinteraction.teachinginter.net)
+- [Active Reader](http://teachinginter.net/reader/)
